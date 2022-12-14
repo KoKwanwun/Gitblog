@@ -1,0 +1,13 @@
+.DS_Store
+
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+
+Gemfile.lock
+/.idea/.gitignore
+/.idea/blog.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
